@@ -1,0 +1,19 @@
+{
+  "name": "license-plate-game-solver",
+  "version": "0.1.0",
+  "description": "A Website that finds possible solutions to a game my family plays on Road Trips",
+  "main": "plate.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varunan-vara/license-plate-game.git"
+  },
+  "author": "Varunan Varathan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/varunan-vara/license-plate-game/issues"
+  },
+  "homepage": "https://github.com/varunan-vara/license-plate-game#readme"
+}
